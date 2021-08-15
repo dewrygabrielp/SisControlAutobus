@@ -1,0 +1,43 @@
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Negocio.dll
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.csprojAssemblyReference.cache
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmPrincipal.resources
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmAutobus.resources
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmChoferes.resources
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmRutas.resources
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmInicio.resources
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmEstudiantes.resources
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Datos.dll.config
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\SisControlBus.Properties.Resources.resources
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Negocio.dll
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Datos.dll.config
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.csprojAssemblyReference.cache
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmEstudiantes.resources
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmInicio.resources
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmAutobus.resources
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmChoferes.resources
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmPrincipal.resources
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmRutas.resources
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\SisControlBus.Properties.Resources.resources
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\Delli7\Desktop\Dewry\ITLA\Programación 2\Tareas\Control de autobuses\Control_Autobuses\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb

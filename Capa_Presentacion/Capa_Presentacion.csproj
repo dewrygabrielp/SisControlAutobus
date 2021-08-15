@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D75CCEEE-36F9-43E6-A61B-C20352C1FC9F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SisControlBus</RootNamespace>
+    <AssemblyName>Capa_Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>autobus.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\Dewry\ITLA\Programación 2\Instaladores y Script\Bunifu_UI_v1.52\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmEstudiantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstudiantes.Designer.cs">
+      <DependentUpon>frmEstudiantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInicio.Designer.cs">
+      <DependentUpon>frmInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAutobus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAutobus.Designer.cs">
+      <DependentUpon>frmAutobus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChoferes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChoferes.Designer.cs">
+      <DependentUpon>frmChoferes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRutas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRutas.Designer.cs">
+      <DependentUpon>frmRutas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMetodos.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmEstudiantes.resx">
+      <DependentUpon>frmEstudiantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInicio.resx">
+      <DependentUpon>frmInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAutobus.resx">
+      <DependentUpon>frmAutobus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChoferes.resx">
+      <DependentUpon>frmChoferes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRutas.resx">
+      <DependentUpon>frmRutas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa_Datos\Capa_Datos.csproj">
+      <Project>{aa698beb-13f8-4fd9-9701-3e09e41b88c8}</Project>
+      <Name>Capa_Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Capa_Negocio\Capa_Negocio.csproj">
+      <Project>{c6499882-d813-4b0d-b17c-ebe460a1d218}</Project>
+      <Name>Capa_Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="autobus.ico" />
+    <Content Include="Imagenes\autobus.png" />
+    <Content Include="Imagenes\btnactualizar.png" />
+    <Content Include="Imagenes\btneditar.png" />
+    <Content Include="Imagenes\btneliminar.png" />
+    <Content Include="Imagenes\btnguardar.png" />
+    <Content Include="Imagenes\btnInicio.png" />
+    <Content Include="Imagenes\btnInscripcion.png" />
+    <Content Include="Imagenes\btnNuevo.png" />
+    <Content Include="Imagenes\C x tipo 2.png" />
+    <Content Include="Imagenes\C x tipo.png" />
+    <Content Include="Imagenes\cerrar.jpg" />
+    <Content Include="Imagenes\Chofer x img.png" />
+    <Content Include="Imagenes\icons8-autobús-48.png" />
+    <Content Include="Imagenes\icons8-boleto-confirmado-50.png" />
+    <Content Include="Imagenes\icons8-caja-registradora-128.png" />
+    <Content Include="Imagenes\icons8-cancelar-40.png" />
+    <Content Include="Imagenes\icons8-cancelar-48.png" />
+    <Content Include="Imagenes\icons8-cerrar-ventana-100.png" />
+    <Content Include="Imagenes\icons8-conductor-48.png" />
+    <Content Include="Imagenes\icons8-crear-nuevo-50.png" />
+    <Content Include="Imagenes\icons8-editar-24.png" />
+    <Content Include="Imagenes\icons8-editar-48.png" />
+    <Content Include="Imagenes\icons8-editar-60.png" />
+    <Content Include="Imagenes\icons8-editar-usuaria-48.png" />
+    <Content Include="Imagenes\icons8-eliminar-48.png" />
+    <Content Include="Imagenes\icons8-eliminar-50.png" />
+    <Content Include="Imagenes\icons8-espionaje-60.png" />
+    <Content Include="Imagenes\icons8-estudiante-masculino-50.png" />
+    <Content Include="Imagenes\icons8-guardar-48.png" />
+    <Content Include="Imagenes\icons8-guardar-cerrar-40.png" />
+    <Content Include="Imagenes\icons8-guardar-cerrar-50.png" />
+    <Content Include="Imagenes\icons8-inicio-50.png" />
+    <Content Include="Imagenes\icons8-minimizar-la-ventana-60.png" />
+    <Content Include="Imagenes\icons8-ruta-50.png" />
+    <Content Include="Imagenes\kisspng-cartoon-drawing-illustration-street-painting-5c10ccdc0261c2.8717144315446048920098.png" />
+    <Content Include="Imagenes\maximizar.png" />
+    <Content Include="Imagenes\minimizar.png" />
+    <Content Include="Imagenes\rutaimg.jpg" />
+    <Content Include="Imagenes\UBICACION.png" />
+    <None Include="Resources\icons8-editar-60.png" />
+    <None Include="Resources\btnInscripcion.png" />
+    <None Include="Resources\btnInicio.png" />
+    <None Include="Resources\UBICACION.png" />
+    <None Include="Resources\rutaimg.jpg" />
+    <None Include="Resources\icons8-boleto-confirmado-501.png" />
+    <None Include="Resources\icons8-crear-nuevo-50.png" />
+    <None Include="Resources\icons8-inicio-50.png" />
+    <None Include="Resources\icons8-conductor-48.png" />
+    <None Include="Resources\icons8-ruta-50.png" />
+    <None Include="Resources\icons8-estudiante-masculino-50.png" />
+    <None Include="Resources\icons8-boleto-confirmado-50.png" />
+    <None Include="Resources\icons8-autobús-48.png" />
+    <None Include="Resources\Cantante-Jhonny-Ventura.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

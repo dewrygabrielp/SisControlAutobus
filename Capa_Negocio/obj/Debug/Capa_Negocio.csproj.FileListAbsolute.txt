@@ -1,0 +1,10 @@
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Negocio\obj\Debug\Capa_Negocio.csprojAssemblyReference.cache
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Negocio\bin\Debug\Capa_Datos.dll.config
