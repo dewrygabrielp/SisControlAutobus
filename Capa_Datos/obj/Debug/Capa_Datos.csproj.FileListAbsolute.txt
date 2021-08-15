@@ -1,0 +1,7 @@
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Delli7\Desktop\Control de autobuses\Control_Autobuses\Capa_Datos\bin\Debug\Capa_Datos.dll.config
